@@ -1,0 +1,4 @@
+Flask==0.12.1
+Werkzeug==0.12.1
+gunicorn==19.3.0
+sh==1.12.13
